@@ -1,0 +1,13 @@
+name: fish-par-survey-for-rconnect
+title: fish-par-survey-for-Rconnect
+username: erin.steiner
+account: erin.steiner
+server: connect.fisheries.noaa.gov
+hostUrl: https://connect.fisheries.noaa.gov/__api__
+appId: 69
+bundleId: 213
+url: https://connect.fisheries.noaa.gov/content/c5b4b8ba-5415-45a0-943e-2972c35f0558/
+when: 1636561335.10351
+lastSyncTime: 1636561335.10351
+asMultiple: FALSE
+asStatic: FALSE

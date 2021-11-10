@@ -1,0 +1,32 @@
+Description,In Data NAIC
+"    Agriculture, forestry, fishing and hunting",11
+"    Agriculture, forestry, fishing and hunting",12
+"    Agriculture, forestry, fishing and hunting",13
+"    Mining, quarrying, and oil and gas extraction",21
+    Utilities,22
+    Construction,23
+      Durable goods manufacturing,32
+      Durable goods manufacturing,33
+      Nondurable goods manufacturing,31
+    Wholesale trade,42
+    Retail trade,44
+    Retail trade,45
+    Transportation and warehousing,48
+    Transportation and warehousing,49
+    Information,51
+      Finance and insurance,52
+      Real estate and rental and leasing,53
+"      Professional, scientific, and technical services",54
+      Management of companies and enterprises,55
+      Administrative and support and waste management and remediation services,56
+      Educational services,61
+      Health care and social assistance,62
+"      Arts, entertainment, and recreation",71
+      Accommodation and food services,72
+    Other services (except government and government enterprises),81
+Government and government enterprises,92
+Trade,42
+Transportation and utilities,999
+Manufacturing and information,999
+Private goods-producing industries 2/,999
+Private services-providing industries 3/,999
