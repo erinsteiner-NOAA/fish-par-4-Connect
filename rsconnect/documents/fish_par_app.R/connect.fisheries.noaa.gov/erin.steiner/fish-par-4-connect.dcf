@@ -1,0 +1,13 @@
+name: fish-par-4-connect
+title: fish-par-4-Connect
+username: erin.steiner
+account: erin.steiner
+server: connect.fisheries.noaa.gov
+hostUrl: https://connect.fisheries.noaa.gov/__api__
+appId: 75
+bundleId: 235
+url: https://connect.fisheries.noaa.gov/content/4a22d997-3f65-441a-ab97-da4f3d3808f3/
+when: 1638307272.80741
+lastSyncTime: 1638307272.80741
+asMultiple: FALSE
+asStatic: FALSE
